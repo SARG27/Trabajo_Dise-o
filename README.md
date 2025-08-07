@@ -35,10 +35,6 @@ Este fue un buen ejercicio para afianzar lo aprendido en clases y tener una base
 - Cómo enviar parámetros por URL (`GET`)
 - Lógica para editar y actualizar registros
 
-## 📸 Capturas de pantalla
-
-*Puedes agregar imágenes aquí si lo subes a GitHub.*
-
 ## 📂 Estructura del proyecto
 
 ```
